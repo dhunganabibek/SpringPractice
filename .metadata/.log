@@ -380,3 +380,45 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:33:06.038
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.muyPdieD => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:34:46.091
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:34:46.092
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@3feab605[org.springframework.tooling.boot.ls:1.33.0.202204250653(id=569)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:34:46.092
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:34:48.980
+!MESSAGE Boot LS startup time from start to initialized: 2887ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:34:49.030
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.NpXsIWKqisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:34:49.031
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:34:49.031
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:34:49.031
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:34:49.032
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:34:49.032
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.NpXsIWKq => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:34:49.033
+!MESSAGE classpath=14 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:34:49.034
+!MESSAGE buffering callback sts4.classpath.NpXsIWKq SpringPractice false 14
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:34:49.034
+!MESSAGE executing callback sts4.classpath.NpXsIWKq 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:34:49.230
+!MESSAGE executing callback sts4.classpath.NpXsIWKq SUCCESS [done]

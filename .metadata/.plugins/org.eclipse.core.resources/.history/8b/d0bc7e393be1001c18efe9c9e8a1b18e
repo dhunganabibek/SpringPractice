@@ -12,7 +12,7 @@
 	<bean name="person" class="com.bibekdhungana.reftype.Person">
 		<property name="firstName" value="Bibek"/>
 		<property name="lastName" value="Dhungana"/>
-		<property name="address" ref="address"/>
+		<property name="address" value=""/>
 	</bean>
 	
 	

@@ -1,0 +1,44 @@
+package com.bibekdhungana.reftype;
+
+public class Address {
+	private String streetName;
+	private int zipcode;
+	
+	
+	public Address() {
+		super();
+	}
+
+
+	public Address(String streeName, int zipcode) {
+		super();
+		this.streetName = streeName;
+		this.zipcode = zipcode;
+	}
+
+
+	public String getStreeName() {
+		return streetName;
+	}
+
+
+	public void setStreeName(String streetName) {
+		this.streetName = streetName;
+	}
+
+
+	public int getZipcode() {
+		return zipcode;
+	}
+
+
+	public void setZipcode(int zipcode) {
+		this.zipcode = zipcode;
+	}
+
+
+	@Override
+	public String toString() {
+		return "Address [streeName=" + streetName + ", zipcode=" + zipcode + "]";
+	}
+}

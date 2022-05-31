@@ -1,1 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	
+	<bean name="address" class="com.bibekdhungana.reftype.Address">
+		<property name="streetName" value="1210N Chicago Ave Unit B"/>
+		<property name="zipcode" value="79416"/>
+	</bean>
+	
+	<bean name="person" class="com.bibekdhungana.reftype.Person">
+		<property name="firstName" value="Bibek"/>
+		<property name="lastName" value="Dhungana"/>
+		<property name="address" ref="address"/>
+	</bean>
+	
+	
+</beans>
