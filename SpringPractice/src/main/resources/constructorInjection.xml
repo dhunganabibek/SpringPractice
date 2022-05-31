@@ -5,7 +5,7 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 	
 	
-	<bean>
+	<bean name="person" class="com.bibekdhungana.constructorinjection.Person">
 		<constructor-arg value="Bibek"/>
 		<constructor-arg value="Dhungana"/>
 	</bean>
