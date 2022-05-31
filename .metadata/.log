@@ -152,3 +152,165 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:35:01.206
 !MESSAGE executing callback sts4.classpath.xlhzZxPY SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:48:23.677
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:48:23.679
+!MESSAGE classpath=8 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:48:23.680
+!MESSAGE buffering callback sts4.classpath.xlhzZxPY SpringPractice false 8
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:48:23.681
+!MESSAGE executing callback sts4.classpath.xlhzZxPY 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:48:23.698
+!MESSAGE executing callback sts4.classpath.xlhzZxPY SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:48:34.851
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:48:34.852
+!MESSAGE classpath=8 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:48:34.854
+!MESSAGE buffering callback sts4.classpath.xlhzZxPY SpringPractice false 8
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:48:34.854
+!MESSAGE executing callback sts4.classpath.xlhzZxPY 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:48:34.863
+!MESSAGE executing callback sts4.classpath.xlhzZxPY SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:49:01.204
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:49:01.205
+!MESSAGE classpath=13 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:49:01.206
+!MESSAGE buffering callback sts4.classpath.xlhzZxPY SpringPractice false 13
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:49:01.206
+!MESSAGE executing callback sts4.classpath.xlhzZxPY 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:49:01.218
+!MESSAGE executing callback sts4.classpath.xlhzZxPY SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:49:03.776
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:49:03.777
+!MESSAGE classpath=13 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:49:03.778
+!MESSAGE buffering callback sts4.classpath.xlhzZxPY SpringPractice false 13
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:49:03.779
+!MESSAGE executing callback sts4.classpath.xlhzZxPY 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:49:03.785
+!MESSAGE executing callback sts4.classpath.xlhzZxPY SUCCESS [done]
+
+!ENTRY org.eclipse.ui 2 2 2022-05-31 17:50:12.630
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:50:20.351
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:50:20.352
+!MESSAGE classpath=13 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:50:20.353
+!MESSAGE buffering callback sts4.classpath.xlhzZxPY SpringPractice false 13
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:50:20.353
+!MESSAGE executing callback sts4.classpath.xlhzZxPY 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:50:20.358
+!MESSAGE executing callback sts4.classpath.xlhzZxPY SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:50:36.898
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:50:36.899
+!MESSAGE classpath=13 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:50:36.900
+!MESSAGE buffering callback sts4.classpath.xlhzZxPY SpringPractice false 13
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:50:36.900
+!MESSAGE executing callback sts4.classpath.xlhzZxPY 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:50:36.905
+!MESSAGE executing callback sts4.classpath.xlhzZxPY SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:51:46.844
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:51:46.845
+!MESSAGE classpath=14 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:51:46.846
+!MESSAGE buffering callback sts4.classpath.xlhzZxPY SpringPractice false 14
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:51:46.846
+!MESSAGE executing callback sts4.classpath.xlhzZxPY 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 17:51:46.853
+!MESSAGE executing callback sts4.classpath.xlhzZxPY SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:11:01.629
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.xlhzZxPY
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:11:01.629
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.xlhzZxPY
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:11:01.630
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:11:01.630
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.xlhzZxPY => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:11:57.085
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:11:57.086
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@3feab605[org.springframework.tooling.boot.ls:1.33.0.202204250653(id=569)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:11:57.087
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:12:00.445
+!MESSAGE Boot LS startup time from start to initialized: 3357ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:12:00.498
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.lrQOnpTTisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:12:00.498
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:12:00.499
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:12:00.499
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:12:00.499
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:12:00.499
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.lrQOnpTT => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:12:00.500
+!MESSAGE classpath=14 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:12:00.501
+!MESSAGE buffering callback sts4.classpath.lrQOnpTT SpringPractice false 14
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:12:00.501
+!MESSAGE executing callback sts4.classpath.lrQOnpTT 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2022-05-31 18:12:00.701
+!MESSAGE executing callback sts4.classpath.lrQOnpTT SUCCESS [done]
