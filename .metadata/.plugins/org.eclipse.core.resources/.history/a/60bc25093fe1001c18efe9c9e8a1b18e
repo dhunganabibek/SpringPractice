@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+	
+	
+	<bean name="person" class="com.bibekdhungana.collectionconfig.Person">
+		<property name="addresses">
+			<list>
+				<value>1210 N Chicago Ave</value>
+				<value>120 Wasington Ave</value>
+			</list>
+		</property>
+		
+		<property name="phoneNumbers">
+			<set>
+				<value>"8323106869"</value>
+				<value>"8326789191"</value>
+			</set>
+		</property>
+		
+		<property name="bonuses">
+			<map>
+				<entry key="sales" value="10000"/>
+			</map>
+		</property>
+	</bean>
+	
+</beans>

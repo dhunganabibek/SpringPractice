@@ -1,0 +1,14 @@
+package com.bibekdhungana.collectionconfig;
+
+import java.util.List;
+import java.util.Set;
+
+public class Person {
+	private List<String> addresses;
+	private Set<String> phonenumbers;
+	private Map<String,String> bonuses;
+	
+	
+	
+
+}
